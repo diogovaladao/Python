@@ -1,0 +1,7 @@
+----pegar campo da aba carteira ----
+
+----pega títulos para abrir os valores----
+//soma-subtitle[@class='sc-hhsmJw cAnHgy soma-subtitle subtitle-2 hydrated'] -> retorna 5 itens
+
+----fundos de investimentos----
+//p[@class='sc-fkBdRf hhgdJr'] -> retorna 42 itens, preciso da posição 6 (valor líquido)

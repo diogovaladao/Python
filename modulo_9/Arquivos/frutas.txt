@@ -1,0 +1,11 @@
+Banana
+Laranja
+Maca
+Melao
+Mamao
+
+Verde
+Amarelo
+Vermelho
+Azul
+Preto
