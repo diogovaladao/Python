@@ -5,7 +5,7 @@ pyautogui.PAUSE = 0.7
 CNPJ_ATLANTICA = "19.333.416/0001-50"
 CNPJ_NUSEED = "05.734.807/0002-52"
 
-def geraNota(data, cnpj, mes, valor):
+def geraNota(data, cnpj, mes, valor, navegador):
     # abrir site
     pyautogui.press("win")
     pyautogui.write("firefox")
