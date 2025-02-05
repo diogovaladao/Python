@@ -66,4 +66,3 @@ cnpj.bind("<<ComboboxSelected>>",habilita_Botao)
 valor.bind("<KeyRelease>",habilita_Botao)
 
 janela.mainloop()
-#pegaPosicao()
